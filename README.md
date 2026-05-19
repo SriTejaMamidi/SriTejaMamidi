@@ -1,27 +1,61 @@
-# 💫 About Me:
-📝✍️My current focus is on machine learning.<br>👯I am interested in collaborating on machine learning.<br>🌱I am currently working on python and machine learning.<br>💬Ask me about data science and machine learning.
+Hi there, I'm Sri Teja Mamidi 👋
+AI Engineer · GenAI Systems · Distributed ML · LLM Pipelines
+🚀 About Me
+🔭 Currently building production GenAI systems at Deloitte — healthcare claims monitoring & reliability
+🧠 Specialised in Agentic RAG pipelines, PyTorch DDP at scale, and LangGraph multi-agent orchestration
+⚡ Diagnosed and solved the Precision vs Recall problem in RAG — evolved naive retrieval to two-stage cross-encoder reranking
+🤖 Built a self-correcting agentic research assistant with Graph-State recursion guard and self-reflection node
+💬 Ask me about LangGraph, PyTorch DDP, RAG, Neural Recommenders, MLflow
+📫 Reach me at: sriteja.legend@gmail.com
+🔗 Connect
+LinkedIn <img src="https://img.shields.io/badge/Gmail-sriteja.legend@gmail.com-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail" />
 
+🛠️ Tech Stack
+Agentic AI & LLMs
+LangGraph LangChain Llama GPT-4o Ollama
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sriteja.legend@gmail.com) 
+Distributed ML & Training
+PyTorch NCCL MLflow
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SriTejaMamidi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SriTejaMamidi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SriTejaMamidi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+RAG & Vector Search
+ChromaDB FAISS HuggingFace
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SriTejaMamidi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+MLOps & Backend
+Python FastAPI Docker Streamlit SQL Tableau
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+🚀 Featured Projects
+🤖 Production Agentic Research Assistant
+LangGraph · Llama 3.1 · ChatOllama · Streamlit · Docker
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SriTejaMamidi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Multi-agent system for autonomous research automation. Implemented Graph-State recursion counter (ceiling: 5) and self-reflection node — eliminating infinite loop failures. Fully local via ChatOllama, zero external API dependency.
 
----
-[![](https://visitcount.itsvg.in/api?id=SriTejaMamidi&icon=0&color=0)](https://visitcount.itsvg.in)
+🔍 Local RAG Assistant — Two-Stage Retrieval
+LangChain · ChromaDB · Llama 3 · FlashRank Cross-Encoder
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Diagnosed the Precision vs Recall problem in naive RAG and re-architected to two-stage pipeline — ChromaDB top-10 retrieval + FlashRank Cross-Encoder reranking to top-3. Drastically reduced hallucinations on domain-specific documents.
+
+🎬 Two-Stage Neural Movie Recommender
+PyTorch · Neural CF · BCELoss · FAISS · FastAPI
+
+Replaced naive popularity baseline with two-stage architecture — Neural CF (BCELoss) + FAISS IndexFlatIP retrieval in ~5ms, followed by NeuralRanker (BCEWithLogitsLoss, 212-dim, BatchNorm) outperforming cosine similarity-only baseline. Sub-100ms end-to-end via FastAPI.
+
+⚡ Distributed ML Training Pipeline
+PyTorch DDP · NCCL · Multi-GPU · Multi-Node · MLflow
+
+92% linear scaling efficiency across multi-node GPU clusters with NCCL all-reduce. DistributedSampler guarantees zero data leakage. Convergence validated via weight parity across 4 distributed ranks.
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SriTejaMamidi&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriTejaMamidi&layout=compact&theme=tokyonight&hide_border=true" width="48%" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SriTejaMamidi&theme=tokyonight&hide_border=true" width="60%" /> </p>
+🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=SriTejaMamidi&theme=tokyonight&no-frame=true&row=1&column=7" /> </p>
+💼 Experience
+Software Engineer — Claims Monitoring & Production Support @ Deloitte (Apr 2025 – Present)
+
+Reduced MTTD by 40%, cut P1 escalations by 30% — real-time observability across healthcare claims microservices
+
+Software Engineer — Claims Platform Monitoring @ Carelon Global Solutions (Nov 2023 – Mar 2025)
+
+Cut P95 latency by 35%, reduced audit query runtime from 8min → 90sec across claims APIs handling 50k+ daily transactions
+
+💡 Random Dev Quote
+Quote
