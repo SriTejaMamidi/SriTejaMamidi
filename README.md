@@ -20,7 +20,7 @@ I design and ship reliable ML systems that scale — from distributed training p
 
 ---
 
-🛠️ **Tech Stack** (at a glance)
+🛠️ **Tech Stack**
 Python · PyTorch · Hugging Face · XGBoost · MLflow · FastAPI · Docker · Kafka · Spark · FAISS · ChromaDB · LangGraph · Llama · SageMaker · AWS (EC2, S3, CloudWatch) · SQL · Bash · Git
 
 ---
@@ -75,7 +75,7 @@ Kafka · PySpark Structured Streaming · Isolation Forest · FastAPI · Docker
 
 ---
 
-💬 Daily Dev Quote (updates automatically)
+💬 Daily Dev Quote
 
 <!--QUOTE_START-->
 > "Talk is cheap. Show me the code." — Linus Torvalds
