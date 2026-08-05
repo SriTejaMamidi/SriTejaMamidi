@@ -1,117 +1,118 @@
-# Hi there, I'm Sri Teja Mamidi 👋
+# ✨ MAMIDI SRI TEJA — AI/ML Engineer
 
-### AI Engineer · GenAI Systems · Distributed ML · LLM Pipelines
+> Building production-grade ML systems: distributed training, low-latency RAG, and observable MLOps.
 
----
-
-## 🚀 About Me
-
-- 🔭 Currently building **production GenAI systems** at Deloitte — healthcare claims monitoring & reliability
-- 🧠 Specialised in **Agentic RAG pipelines**, **PyTorch DDP** at scale, and **LangGraph multi-agent orchestration**
-- ⚡ Diagnosed and solved the **Precision vs Recall problem in RAG** — evolved naive retrieval to two-stage cross-encoder reranking
-- 🤖 Built a **self-correcting agentic research assistant** with Graph-State recursion guard and self-reflection node
-- 💬 Ask me about **LangGraph, PyTorch DDP, RAG, Neural Recommenders, MLflow**
-- 📫 Reach me at: **sriteja.legend@gmail.com**
+📍 Hyderabad, IN · 📞 +91 63098 39472 · ✉️ sriteja.legend@gmail.com · 🔗 [github.com/SriTejaMamidi](https://github.com/SriTejaMamidi) · 💼 [LinkedIn](https://www.linkedin.com/in/sri-teja-mamidi-73425822a)
 
 ---
 
-## 🔗 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sri_Teja_Mamidi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sri-teja-mamidi-73425822a)
-[![Gmail](https://img.shields.io/badge/Gmail-sriteja.legend@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sriteja.legend@gmail.com)
-
----
-
-## 🛠️ Tech Stack
-
-### Agentic AI & LLMs
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![Llama](https://img.shields.io/badge/Llama_3.1-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![GPT-4o](https://img.shields.io/badge/GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-
-### Distributed ML & Training
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![NCCL](https://img.shields.io/badge/NCCL-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-
-### RAG & Vector Search
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=databricks&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### MLOps & Backend
-![Python](https://img.shields.io/badge/Python_3.13-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+🎯 HIGHLIGHTS
+- 🚀 92% GPU scaling efficiency with PyTorch DDP (multi-node, NCCL all-reduce).  
+- ⚡ Sub-100ms RAG inference (ChromaDB + FlashRank reranker).  
+- 🛡️ ML + infra anomaly detection → 40% lower MTTD, 30% fewer P1 escalations.  
+- ✅ Sustained zero critical post-release defects across Q2–Q3 2025.  
+- 🧭 Claude Certified Architect (Anthropic).
 
 ---
 
-## 🚀 Featured Projects
-
-### 🤖 [Production Agentic Research Assistant](https://github.com/SriTejaMamidi/Production-Agentic-Research-Assistant)
-> LangGraph · Llama 3.1 · ChatOllama · Streamlit · Docker
-
-Multi-agent system for autonomous research automation. Implemented Graph-State recursion counter (ceiling: 5) and self-reflection node — eliminating infinite loop failures. Fully local via ChatOllama, zero external API dependency.
+🧩 About
+I design and ship reliable ML systems that scale — from distributed training pipelines and low-latency RAG services to observability-first MLOps and agentic orchestration. I focus on reproducibility, observability, and measurable business impact.
 
 ---
 
-### 🔍 [Local RAG Assistant — Two-Stage Retrieval](https://github.com/SriTejaMamidi/Local-RAG-System)
-> LangChain · ChromaDB · Llama 3 · FlashRank Cross-Encoder
-
-Diagnosed the Precision vs Recall problem in naive RAG and re-architected to two-stage pipeline — ChromaDB top-10 retrieval + FlashRank Cross-Encoder reranking to top-3. Drastically reduced hallucinations on domain-specific documents.
+🛠️ Tech Stack (at a glance)
+Python · PyTorch · Hugging Face · XGBoost · MLflow · FastAPI · Docker · Kafka · Spark · FAISS · ChromaDB · LangGraph · Llama · SageMaker · AWS (EC2, S3, CloudWatch) · SQL · Bash · Git
 
 ---
 
-### 🎬 [Two-Stage Neural Movie Recommender](https://github.com/SriTejaMamidi/neural-movie-recommender)
-> PyTorch · Neural CF · BCELoss · FAISS · FastAPI
+📌 WORK EXPERIENCE
 
-Replaced naive popularity baseline with two-stage architecture — Neural CF (BCELoss) + FAISS IndexFlatIP retrieval in ~5ms, followed by NeuralRanker (BCEWithLogitsLoss, 212-dim, BatchNorm) outperforming cosine similarity-only baseline. Sub-100ms end-to-end via FastAPI.
+### ▶ Applied AI Engineer — Claims Intelligence Platform, Deloitte  
+Hyderabad, IN · Apr 2025 – Present  
+- 🔍 Built anomaly detection across infra telemetry (CloudWatch) and model outputs; integrated MLflow for experiment tracking — impact: 40% ↓ MTTD, 30% ↓ P1 escalations.  
+- 🧠 Designed/maintained production RAG pipelines (ChromaDB + FlashRank) for LLM-assisted compliance & decision support; monitored via CloudWatch & Tableau.  
+- 📄 Automated document processing: OCR → classification → key-info extraction in intake.  
+- 🛠️ Delivered 15+ RCA-driven fixes; reduced recurring defects by 30%.  
+- ⚙️ Owned MLOps & CI/CD pipelines with automated regression testing — zero production downtime during releases.
+
+### ▶ Software Engineer — ML-Augmented Claims Platform, Carelon Global Solutions  
+Hyderabad, IN · Nov 2023 – Mar 2025  
+- ✨ Implemented feature engineering & training for fraud detection (XGBoost) and claims estimation (Gradient Boosting/XGBoost); deployed on SageMaker.  
+- 🧾 Integrated Tesseract OCR, spaCy, and BERT NER into the claims intake/adjudication workflow.  
+- 🔁 Maintained automated retraining pipelines and production model metric monitoring.
 
 ---
 
-### ⚡ [Distributed ML Training Pipeline](https://github.com/SriTejaMamidi/distributed-ml-pipeline)
-> PyTorch DDP · NCCL · Multi-GPU · Multi-Node · MLflow
+🚧 SELECTED PROJECTS
 
-92% linear scaling efficiency across multi-node GPU clusters with NCCL all-reduce. DistributedSampler guarantees zero data leakage. Convergence validated via weight parity across 4 distributed ranks.
+#### ⚙ Distributed High-Performance ML Training Pipeline  
+PyTorch DDP · NCCL · MLflow · Multi-node multi-GPU  
+- 92% linear scaling efficiency; 70% wall-clock reduction vs single-GPU; deterministic convergence checks.  
+- Repo: https://github.com/SriTejaMamidi
+
+#### 🤖 Agentic Research Assistant  
+LangGraph · Llama 3.1 · Ollama · FastAPI · Docker · MLflow  
+- Local multi-agent orchestration with task decomposition, search synthesis, reflect node and recursion_guard() (max 5 iterations). Containerized with CI/CD & MLflow.  
+- Repo: https://github.com/SriTejaMamidi/Production-Agentic-Research-Assistant
+
+#### 🎬 Two-Stage Neural Movie Recommender  
+PyTorch · FAISS · FastAPI · MLflow  
+- FAISS retrieval (64-dim) + neural ranker (212-dim tower); sub-100ms E2E inference and detailed latency breakdown.
+
+#### ⚡ Real-Time Kafka Stream Anomaly Detector  
+Kafka · PySpark Structured Streaming · Isolation Forest · FastAPI · Docker  
+- Windowed streaming pipeline with sub-200ms detection latency and a live FastAPI dashboard.
 
 ---
 
-## 📊 GitHub Stats
+**🔧 SKILLS**
+- 🧠 Machine Learning & Modeling: PyTorch · Hugging Face · Scikit-learn · XGBoost · Gradient Boosting · Fine-tuning  
+- ⚙ Distributed Training: PyTorch DDP · NCCL/Gloo · DistributedSampler · Multi-node training · Gradient sync  
+- 🧰 MLOps & Production: MLflow · Docker · FastAPI · CI/CD · SageMaker · CloudWatch · S3 · EC2  
+- 🔎 RAG & Retrieval: ChromaDB · FAISS · FlashRank · Semantic chunking · Embeddings  
+- 📊 Data & Streaming: Kafka · Spark · Streamlit  
+- 🛠 Tools & Infra: Git · Linux · SQL · Bash
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SriTejaMamidi&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriTejaMamidi&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+---
+
+📊 GitHub Stats & Trophies
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SriTejaMamidi&show_icons=true&theme=radical&hide_border=true" alt="SriTeja's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriTejaMamidi&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SriTejaMamidi&theme=tokyonight&hide_border=true" width="60%" />
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=SriTejaMamidi&theme=monokai&margin-w=10&column=5" alt="trophies" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+💬 Daily Dev Quote (updates automatically)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SriTejaMamidi&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 💼 Experience
-
-**Software Engineer — Claims Monitoring & Production Support** @ **Deloitte** *(Apr 2025 – Present)*
-> Reduced MTTD by 40%, cut P1 escalations by 30% — real-time observability across healthcare claims microservices
-
-**Software Engineer — Claims Platform Monitoring** @ **Carelon Global Solutions** *(Nov 2023 – Mar 2025)*
-> Cut P95 latency by 35%, reduced audit query runtime from 8min → 90sec across claims APIs handling 50k+ daily transactions
+<!--QUOTE_START-->
+> "Talk is cheap. Show me the code." — Linus Torvalds
+<!--QUOTE_END-->
 
 ---
 
-## 💡 Random Dev Quote
+📈 Contributions & Recent Activity (auto-updating)
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<!-- Link to the overview page for a specific date range provided by you -->
+[View overview contributions (2026-08-01 → 2026-08-05)](https://github.com/SriTejaMamidi?tab=overview&from=2026-08-01&to=2026-08-05)
+
+<!-- Dynamic contributions calendar (auto-updates daily) -->
+<img src="https://github.com/users/SriTejaMamidi/contributions" alt="contributions calendar" />
+
+---
+
+🎯 What I’m looking for
+Roles building reliable, observable ML infrastructure and product-grade LLM/RAG systems — teams that prioritize reproducibility, reliability, and measurable impact.
+
+---
+
+📫 Contact
+- Email: sriteja.legend@gmail.com  
+- Phone: +91 63098 39472  
+- GitHub: https://github.com/SriTejaMamidi  
+- LinkedIn: https://www.linkedin.com/in/sri-teja-mamidi-73425822a
