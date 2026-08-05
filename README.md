@@ -6,7 +6,7 @@
 
 ---
 
-🎯 HIGHLIGHTS
+🎯 **HIGHLIGHTS**
 - 🚀 92% GPU scaling efficiency with PyTorch DDP (multi-node, NCCL all-reduce).  
 - ⚡ Sub-100ms RAG inference (ChromaDB + FlashRank reranker).  
 - 🛡️ ML + infra anomaly detection → 40% lower MTTD, 30% fewer P1 escalations.  
@@ -15,17 +15,17 @@
 
 ---
 
-🧩 About
+🧩 **About**
 I design and ship reliable ML systems that scale — from distributed training pipelines and low-latency RAG services to observability-first MLOps and agentic orchestration. I focus on reproducibility, observability, and measurable business impact.
 
 ---
 
-🛠️ Tech Stack (at a glance)
+🛠️ **Tech Stack** (at a glance)
 Python · PyTorch · Hugging Face · XGBoost · MLflow · FastAPI · Docker · Kafka · Spark · FAISS · ChromaDB · LangGraph · Llama · SageMaker · AWS (EC2, S3, CloudWatch) · SQL · Bash · Git
 
 ---
 
-📌 WORK EXPERIENCE
+📌 **WORK EXPERIENCE**
 
 ### ▶ Applied AI Engineer — Claims Intelligence Platform, Deloitte  
 Hyderabad, IN · Apr 2025 – Present  
@@ -43,7 +43,7 @@ Hyderabad, IN · Nov 2023 – Mar 2025
 
 ---
 
-🚧 SELECTED PROJECTS
+🚧  **PROJECTS**
 
 #### ⚙ Distributed High-Performance ML Training Pipeline  
 PyTorch DDP · NCCL · MLflow · Multi-node multi-GPU  
@@ -75,19 +75,6 @@ Kafka · PySpark Structured Streaming · Isolation Forest · FastAPI · Docker
 
 ---
 
-📊 GitHub Stats & Trophies
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SriTejaMamidi&show_icons=true&theme=radical&hide_border=true" alt="SriTeja's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriTejaMamidi&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=SriTejaMamidi&theme=monokai&margin-w=10&column=5" alt="trophies" />
-</p>
-
----
-
 💬 Daily Dev Quote (updates automatically)
 
 <!--QUOTE_START-->
@@ -96,15 +83,7 @@ Kafka · PySpark Structured Streaming · Isolation Forest · FastAPI · Docker
 
 ---
 
-📈 Contributions & Recent Activity (auto-updating)
 
-<!-- Link to the overview page for a specific date range provided by you -->
-[View overview contributions (2026-08-01 → 2026-08-05)](https://github.com/SriTejaMamidi?tab=overview&from=2026-08-01&to=2026-08-05)
-
-<!-- Dynamic contributions calendar (auto-updates daily) -->
-<img src="https://github.com/users/SriTejaMamidi/contributions" alt="contributions calendar" />
-
----
 
 🎯 What I’m looking for
 Roles building reliable, observable ML infrastructure and product-grade LLM/RAG systems — teams that prioritize reproducibility, reliability, and measurable impact.
