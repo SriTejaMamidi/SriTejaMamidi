@@ -48,7 +48,7 @@ Hyderabad, IN · Nov 2023 – Mar 2025
 #### ⚙ Distributed High-Performance ML Training Pipeline  
 PyTorch DDP · NCCL · MLflow · Multi-node multi-GPU  
 - 92% linear scaling efficiency; 70% wall-clock reduction vs single-GPU; deterministic convergence checks.  
-- Repo: https://github.com/SriTejaMamidi
+- Repo: https://github.com/SriTejaMamidi/Distributed-Training-ML_Pipeline
 
 #### 🤖 Agentic Research Assistant  
 LangGraph · Llama 3.1 · Ollama · FastAPI · Docker · MLflow  
