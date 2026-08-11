@@ -58,6 +58,7 @@ LangGraph · Llama 3.1 · Ollama · FastAPI · Docker · MLflow
 #### 🎬 Two-Stage Neural Movie Recommender  
 PyTorch · FAISS · FastAPI · MLflow  
 - FAISS retrieval (64-dim) + neural ranker (212-dim tower); sub-100ms E2E inference and detailed latency breakdown.
+- Repo: https://github.com/SriTejaMamidi/Movie-Recommender
 
 #### ⚡ Real-Time Kafka Stream Anomaly Detector  
 Kafka · PySpark Structured Streaming · Isolation Forest · FastAPI · Docker  
