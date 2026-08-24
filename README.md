@@ -76,14 +76,6 @@ Kafka · PySpark Structured Streaming · Isolation Forest · FastAPI · Docker
 
 ---
 
-💬 Daily Dev Quote
-
-<!--QUOTE_START-->
-> "Talk is cheap. Show me the code." — Linus Torvalds
-<!--QUOTE_END-->
-
----
-
 
 
 🎯 What I’m looking for
