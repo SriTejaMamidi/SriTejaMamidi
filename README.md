@@ -63,7 +63,7 @@ PyTorch · FAISS · FastAPI · MLflow
 #### ⚡ Real-Time Kafka Stream Anomaly Detector  
 Kafka · PySpark Structured Streaming · Isolation Forest · FastAPI · Docker  
 - Windowed streaming pipeline with sub-200ms detection latency and a live FastAPI dashboard.
-- Repo:
+- Repo: https://github.com/SriTejaMamidi/Real-time-Kafka-Stream-Anomaly-Detector
 ---
 
 **🔧 SKILLS**
